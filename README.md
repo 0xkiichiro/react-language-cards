@@ -4,7 +4,7 @@ Simple app made to practice states.
 
 # Technologies used
 
-HTML, CSS, JS
+HTML, CSS, JS, React.js
 
 ## Check the full-functioning site at: https://0xkiichiro.github.io/react-language-cards/
 
